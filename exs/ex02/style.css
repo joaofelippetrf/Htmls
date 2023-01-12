@@ -1,0 +1,103 @@
+body{
+
+        height: 100%;
+        padding-top: 0px;
+        text-align: center;
+        background-color: lightgray;
+        margin: 0px;
+        height: max-content;
+}
+
+    h1 {background-image: linear-gradient(to bottom,#06AA48 ,#a9ffb4);
+        height: 100px;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        font-size: 70px;
+        text-shadow: 3px 3px 3px black;
+        font-style: italic;
+        padding-top: 0px;
+        margin-top: 0px;
+}
+
+
+div{
+
+        text-align:center;
+        background-color: #a9ffb4;
+        margin: 10px;
+        width: 210px;   
+        height: 234px;
+        display: inline-block;
+        border-radius: 10px;
+        box-shadow: 1px 2px 2px black;
+    }
+
+a{
+
+        display: block;
+        font-size:larger ;
+        color: black;
+        font-weight: bold;
+    }
+
+        a::after{Link}
+
+    a:hover{
+
+    color: blue;
+}
+    body.historias{
+        height: 100%;
+        padding-top: 0px;
+        text-align: center;
+        background-color: rgba(176, 255, 211, 0.164);
+        margin: 0px;
+    }
+
+    h2.historias{
+        text-align: left;
+        margin: 5px;
+        font-size: 35px;
+        font-weight: 500;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+    p{
+        font-size: 20px;
+        text-align: left;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 400;
+
+}
+
+    main{
+        margin: auto;
+        background-color:white ;
+        width: 65%;
+        box-shadow: 2px 2px 2px black;
+        
+        
+
+    }
+        img.historias{
+            margin-left: 20%;
+        }
+    main#inicio{
+        width: 80%;
+        border-radius: 5px;
+
+        }
+
+        p#final{
+                margin-bottom: 0px;
+                margin-right: 20px;
+                color: blue;
+                font-size: 12px;
+                text-align: center;
+
+        }
+        footer{ margin-bottom: 0px;
+                margin-top: 167px;
+                background-color: antiquewhite;
+        }
+    
+    
