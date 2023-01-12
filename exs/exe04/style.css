@@ -143,6 +143,7 @@ h3#extra{
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
         padding: 10px;
+       
         
 }
 
@@ -150,7 +151,8 @@ div#extra0{
     background-color: #93FAC0;
     margin: 15px;
     border-radius: 15px;
-    
+    height: 350px;
+    padding-top: 0px;
 
 }
 img{width: 95%;
