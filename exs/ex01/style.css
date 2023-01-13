@@ -65,6 +65,19 @@ font-style: italic;
 
   }
 
+  img{
+    display: inline-block;
+    width: 45%;
+
+
+  }
+
+  video{
+
+    display: block;
+    width: 100%;
+  }
+
 
 
    
