@@ -47,13 +47,13 @@ header > a:hover{
 
 }
  p{
-font-size: 30px;
+font-size: 3.5vh;
 font-family: 'Times New Roman', Times, serif;
 font-style: italic;
 margin-bottom: 30px;
 font-weight: 900;
 text-align: left;
-
+line-height: 2em;
 
 
 
@@ -82,16 +82,28 @@ header > a{
         background-position: center center;
         background-attachment: fixed;
         position: relative;
+        background-size: cover;
+        padding: 20px;
+    }
+    div#livro{
+        background-image: url(imagens/background002.jpg);
+
+
     }
     div > p{
     color: white;
     display: block;
     min-width: none;
     max-width: 1200px;
-    max-height: fit-content;
+    max-height: 100%;
     background-color: rgba(0, 0, 0, 0.097);
     position: absolute;
     top: 15%;
     left: 5%;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px black;
+    
     
    }
+
+   
