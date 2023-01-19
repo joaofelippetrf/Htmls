@@ -1,4 +1,4 @@
-@media screen and (max-width: 760px){
+@media screen and (max-width: 1000px){
     *{margin: 5px}
     body{
         align-items: center;
@@ -14,7 +14,7 @@
     font-size: 3vh;
    }
    button{
-    font-size: 3.5vh;
+    font-size: 3vh;
    }
    img{
     width: 100%;

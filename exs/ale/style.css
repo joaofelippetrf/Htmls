@@ -14,13 +14,13 @@
     --cor3:#F2FF73;
     --cor4:#8165C2;
     --cor5:#C2B8A3;
-    --cor6:#FF815A;
+    --cor6:#fd6739;
     --fonte1:'Sofia Sans Condensed', sans-serif;
     --fonte2:'Rowdies', cursive;
 }
 
 body{
-   background-color: #c743238e;
+   background-color: #c7442373;
     
 
 }
@@ -97,7 +97,7 @@ input{
     color: black;
     border-radius: 150px;
     height: 50px;
-    border: none;
+    border: 1px solid #fd6739;
     font-size: 20px;
     
 
@@ -112,7 +112,7 @@ div{
 
         color: white;
     }
-    section{
+    form{
         display: flex;
         gap: 10px;
     }
